@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng.template">
+    <body>
+      <trans-unit id="cKeyboardBacklightLabel" datatype="html">
+        <source>Keyboard Backlight</source>
+        <target>键盘背光</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightDescription1" datatype="html">
+        <source>Click on a key area to select it.</source>
+        <target>单击键区域以选择它。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightDescription2" datatype="html">
+        <source>Hold down shift to select multiple key areas.</source>
+        <target>按住 Shift 以选择多个键区域。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightNotSupported" datatype="html">
+        <source>Your device is not (yet) supported by this control interface, or the driver is too old. At least tuxedo-drivers 4.0.0 and Linux kernel 5.15 are required for most devices (some devices need newer versions).</source>
+        <target>您的设备还不受此控制界面支持，或驱动程序过旧。大多数设备至少需要 tuxedo-drivers 4.0.0 和 Linux 内核 5.15（某些设备需要更新版本）。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightModeLabel" datatype="html">
+        <source>Animation Mode:</source>
+        <target>动画模式：</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightModeStatic" datatype="html">
+        <source>Static</source>
+        <target>静态</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightModeBreathing" datatype="html">
+        <source>Breathing</source>
+        <target>呼吸</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightModeWave" datatype="html">
+        <source>Wave</source>
+        <target>波浪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightModeReactive" datatype="html">
+        <source>Reactive</source>
+        <target>反应式</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightModeSpectrum" datatype="html">
+        <source>Spectrum</source>
+        <target>光谱</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightSpeedLabel" datatype="html">
+        <source>Animation Speed:</source>
+        <target>动画速度：</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightBrightnessLabel" datatype="html">
+        <source>Brightness:</source>
+        <target>亮度：</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cKeyboardBacklightColorLabel" datatype="html">
+        <source>Backlight Color:</source>
+        <target>背光颜色：</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/keyboard-backlight/keyboard-backlight.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menuKeyboardBacklight" datatype="html">
+        <source>Keyboard Backlight</source>
+        <target>键盘背光</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/tools/tools.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menuShutdownTimer" datatype="html">
+        <source>Shutdown Timer</source>
+        <target>关机计时器</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/tools/tools.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cryptPasswordTabTitle" datatype="html">
+        <source>Change Crypt Password</source>
+        <target>更改加密密码</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/tools/tools.component.html</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menuWebcam" datatype="html">
+        <source>Webcam</source>
+        <target>网络摄像头</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/ng-app/app/tools/tools.component.html</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
